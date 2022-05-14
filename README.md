@@ -13,6 +13,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am insipired by anime characters!
+- 📝 I share tutorials for various bioinformatics topics
 
 
 ### Talk with me, I love connecting :
