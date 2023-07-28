@@ -6,7 +6,7 @@
 <br />
 <div align="left" width="50">
   
-### I'm a curious Researcher, generous Teacher, and Computational biologist!!
+### I'm a curious Computational biologist!!
 - 🔭 I’m currently working on discovering cool things in the human genome.
 - 🌱 I’m currently learning how to be the best version of myself
 - 👯 I’m looking to collaborate on drug discovery projects
