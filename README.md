@@ -2,7 +2,7 @@
 ### Hello World, I'm Fatima  👋
 <div align="center" width="50">
   
-<img src="https://altheia.com/wp-content/uploads/2020/12/0KbmpXTpCCIt1TR1B.png" alt="Welcome!" width="1000" height="400"/>
+<img src="https://altheia.com/wp-content/uploads/2020/12/0KbmpXTpCCIt1TR1B.png" alt="Welcome!" width="800" height="400"/>
 <br />
 <div align="left" width="50">
   
