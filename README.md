@@ -2,6 +2,10 @@
 ### Hello World, I'm Fatima  👋
 <div align="center" width="50">
   
+<img src="https://altheia.com/wp-content/uploads/2020/12/0KbmpXTpCCIt1TR1B.png" alt="Welcome!" width="900" height="450"/>
+<br />
+<div align="left" width="50">
+  
 ### I'm a curious Data Scientist!!
 - 🔭 I’m currently working on transforming the healthcare sector in Jordan.
 - 🌱 I’m currently learning how to be the best version of myself
@@ -30,4 +34,3 @@
   <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Galaxy" width="30px" src="https://gallantries.github.io/video-library/assets/images/setup/galaxylogo.png" />
 <img align="left" alt="PowerBI" width="25px" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" />
-
